@@ -1,0 +1,17 @@
+.tab-content-button {
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+
+  height: 40px;
+  width: 120px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.active-button {
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+  color: blue;
+}
